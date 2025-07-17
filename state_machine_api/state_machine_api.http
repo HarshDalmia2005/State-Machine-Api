@@ -1,0 +1,6 @@
+@state_machine_api_HostAddress = http://localhost:5122
+
+GET {{state_machine_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
