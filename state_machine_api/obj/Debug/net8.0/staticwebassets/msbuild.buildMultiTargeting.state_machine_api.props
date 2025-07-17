@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\state_machine_api.props" />
+</Project>
